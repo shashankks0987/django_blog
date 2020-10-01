@@ -9,3 +9,5 @@ Project is created with:
 
 ## Setup
 To run this project, clone it locally in a VirtualEnv
+##Install requirements
+```pip install -r requirements.txt```
